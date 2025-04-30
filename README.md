@@ -1,4 +1,6 @@
 # fullpools
 
 ## Editing the file
-It's a markdown file in this repository
+completed python jupyter notebooks for each stage of the project as an external reference and peer-review purpose
+
+
